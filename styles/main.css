@@ -9,9 +9,7 @@ body{
     border: 2px solid black;
     margin: 15px auto;
 }
-header{
-    margin-top: 10px;
-}
+
 header img{
     margin-top: 0.5px;
    float: left;
